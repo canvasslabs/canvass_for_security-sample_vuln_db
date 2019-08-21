@@ -1,0 +1,46 @@
+[{
+        "coord_comp_one":"ejs",
+        "clone_url":"https://github.com/mde/ejs.git",
+        "coord":"ejs",
+        "cve_id":"CVE-2017-1000188",
+        "id":"68ed51f82813473b905d44bd67c84d82",
+        "pkgmanager_name":"npm",
+        "package_name":"mde_ejs",
+        "vrange":"[,2.5.5)"
+},{
+        "coord_comp_one":"qs",
+        "clone_url":"https://github.com/ljharb/qs.git",
+        "coord":"qs",
+        "cve_id":"CVE-2014-10064",
+        "id":"3d22cf8a65524c7080e408cf97c05830",
+        "pkgmanager_name":"npm",
+        "package_name":"ljharb_qs",
+        "vrange":"[,1.0.0)"
+},{
+        "coord_comp_one":"js-yaml",
+        "clone_url":"https://github.com/nodeca/js-yaml.git",
+        "coord":"js-yaml",
+        "cve_id":"CVE-2013-4660",
+        "id":"50082fdb76a54e4db222c73e902a4ee3",
+        "pkgmanager_name":"npm",
+        "package_name":"nodeca_js-yaml",
+        "vrange":"[,2.0.5)"
+},{
+        "coord_comp_one":"adm-zip",
+        "clone_url":"https://github.com/cthackers/adm-zip.git",
+        "coord":"adm-zip",
+        "cve_id":"CVE-2018-1002204",
+        "id":"0ee2037b4b1b4b159161211fa83c2b90",
+        "pkgmanager_name":"npm",
+        "package_name":"cthackers_adm-zip",
+        "vrange":"[,0.4.11)"
+},{
+        "coord_comp_one":"backbone",
+        "clone_url":"https://github.com/jashkenas/backbone.git",
+        "coord":"backbone",
+        "cve_id":"CVE-2016-10537",
+        "id":"01bc05a5c7e546588a4c95f9795634a8",
+        "pkgmanager_name":"npm",
+        "package_name":"jashkenas_backbone",
+        "vrange":"[,0.3.3]"
+}]
